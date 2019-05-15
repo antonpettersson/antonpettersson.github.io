@@ -31,13 +31,6 @@
     -webkit-text-fill-color: transparent;
   }
   
-  .hello-small:hover {
-    background: linear-gradient(90deg, #456990, #e5446d, #ffe66d 100%);
-    color: white;
-    border: 4px solid linear-gradient(90deg, #456990, #e5446d, #ffe66d 100%);
-    border-radius: 20px;
-  }
-  
   .hello-small {
     margin-top: -50px;
     color: gainsboro;
